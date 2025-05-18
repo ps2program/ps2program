@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Prahlad 👨‍💻</h1>
 <p align="center">
-  🚀 Sr. Software Engineer | 🧠 Generative AI & LLM Architect | 💡 Patent Holder | 🇮🇳 Bangalore
+  🚀 Sr. Software Engineer | 🧠 M.Tech AI/ML | 🧠 Generative AI & LLM Architect | 💡 Patent Holder | 🇮🇳 Pune
 </p>
 
 <p align="center">
@@ -59,7 +59,8 @@
 - 🌐 [Portfolio](https://prahlad.pro/)
 - 📝 [Blog](https://prahlad.blog/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/prahlad-sahu-602930150/)
-- 📬 Email: your.email@example.com
+- 📬 Email: ps2prahlad@gmail.com
+- 📬 Email: ps2programming@gmail.com
 
 ---
 
