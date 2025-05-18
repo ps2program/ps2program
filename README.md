@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Prahlad 👨‍💻</h1>
 <p align="center">
-  🚀 Sr. Software Engineer | 🧠 M.Tech AI/ML | 🧠 Generative AI & LLM Architect | 💡 Patent Holder | 🇮🇳 Pune
+  🚀 Sr. Software Engineer | 🎓 M.Tech in AI/ML | 🤖 Generative AI & LLM Architect | 🧠 Patent Holder | 📍 Pune, India 🇮🇳
 </p>
 
 <p align="center">
