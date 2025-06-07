@@ -35,7 +35,6 @@
 | Project | Description | Link |
 |--------|-------------|------|
 | Generative System Design | System creation tool powered by LLM workflows | [Launch App](https://generative-system-design.onrender.com/) |
-| System Architecture | Visual design of system architecture | [View Diagram](https://excalidraw.com/#json=lUrjZhfpDQz-vpcU1xFCZ,9Zx70o1C7nRhc2tN-SSFmw) |
 | Generative System Design Chat | Conversational UI for system design | [Launch Chat](https://generative-system-design-chat.netlify.app/) |
 | Gen-Sci | Scientific idea generation using metadata and LLMs | [Launch App](https://gensci.onrender.com/) |
 | Generative Search | AI-driven search engine for scientific data | [Search UI](http://llm-crawler-1.onrender.com/) |
