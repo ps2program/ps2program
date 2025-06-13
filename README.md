@@ -22,6 +22,15 @@
 
 ---
 
+### 🧩 Open Source Contributions
+
+* 💡 **DeepEval (by Confident AI)**
+  Integrated [LiteLLM](https://github.com/BerriAI/litellm) into the [DeepEval](https://github.com/confident-ai/deepeval) framework.
+  Wrote backend logic + tutorial docs for using LiteLLM as a model source.
+  [PR #1670 – View Contribution](https://github.com/confident-ai/deepeval/pull/1670)
+
+---
+
 ### 🧠 Expertise
 
 - 🧩 LLM Orchestration (OpenAI, Claude, LLAMA)
